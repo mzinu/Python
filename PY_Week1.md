@@ -50,7 +50,7 @@
 ```
 아나콘다(Anaconda) 또는 미니콘다(Miniconda)를 설치한 후, 필수 패키지를 설치하고 설치 완료 화면을 캡처하여 제출해주세요.
 ```
-![alt text](image.png)
+<img width="1671" height="752" alt="스크린샷 2026-03-07 221120" src="https://github.com/user-attachments/assets/183fe7e2-1e3c-4e1a-870e-0165be16725a" />
 
 ## 2. 파이썬 인터프리터 
 
@@ -60,9 +60,7 @@
 프롬프트에서 ipython을 입력하여 IPython 환경을 실행한 뒤, %run hello_world.py 명령어로 파일을 실행하시기 바랍니다.
 실행 결과가 나타난 화면을 캡처하여 제출해주세요.
 ```
-
-![alt text](image-1.png)
-
+<img width="1101" height="280" alt="스크린샷 2026-03-07 223225" src="https://github.com/user-attachments/assets/32389a05-d6f2-4d6a-8c8e-8db229b64ab3" />
 
 ## 3. IPython 기초  
 
@@ -79,7 +77,7 @@ data = [np.random.standard_normal() for i in range(7)]
 data
 ```
 
-![alt text](image-2.png)
+<img width="808" height="451" alt="스크린샷 2026-03-07 223422" src="https://github.com/user-attachments/assets/31288830-0a9c-483b-9fe3-996c20d88224" />
 
 ### 주피터 노트북 실행하기 
 
@@ -88,8 +86,7 @@ data
 코드 셀에 print("Hello, World!")를 입력하고 실행한 뒤, 출력 결과가 나타난 화면을 캡처하여 제출해주세요.
 ```
 
-![alt text](image-3.png)
-
+<img width="630" height="279" alt="스크린샷 2026-03-07 224343" src="https://github.com/user-attachments/assets/aec5bb0c-5f13-461e-8fe9-fdfad952bff8" />
 
 ## 파이썬 기초  
 
@@ -129,7 +126,7 @@ data = [44059, 44050, 39, 52626, 54623, 38]
 print("".join(chr(x ^ key) for x in data))
 ```
 
-![alt text](image-4.png)
+<img width="497" height="161" alt="스크린샷 2026-03-07 230236" src="https://github.com/user-attachments/assets/3b372864-ee03-4a23-98aa-633224718c7c" />
 
 ### 🎉 수고하셨습니다.
 
