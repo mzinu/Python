@@ -206,9 +206,13 @@
 
 ### 실습 인증
 
-<!-- 예제 실습을 진행한 후, 실행 화면을 4-5장 캡쳐하여 제출해주세요. -->
-
-
+<img width="840" height="553" alt="스크린샷 2026-03-12 164533" src="https://github.com/user-attachments/assets/cf3f4e19-560a-4271-b4e1-49c4f0ca73ab" />
+<img width="633" height="508" alt="image" src="https://github.com/user-attachments/assets/ae65dd92-f3dc-44c3-9048-743b253ecc5b" />
+<img width="915" height="506" alt="image" src="https://github.com/user-attachments/assets/d74f63cf-f02d-4a7b-87a4-b85e54c94b5f" />
+<img width="534" height="296" alt="image" src="https://github.com/user-attachments/assets/38b63420-e442-4f68-b8d7-920159204bd5" />
+<img width="942" height="793" alt="image" src="https://github.com/user-attachments/assets/1dce6c82-923b-4f69-bfb9-6fc40540bb42" />
+<img width="752" height="206" alt="image" src="https://github.com/user-attachments/assets/11899ebf-0e1f-497e-bfd0-27cd4fd2a9d3" />
+<img width="754" height="114" alt="image" src="https://github.com/user-attachments/assets/e5bf9be0-026d-4580-9a7a-63f43dd8f32d" />
 
 
 ## 2. 함수
