@@ -321,8 +321,10 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 4-5장 캡쳐하여 제출해주세요. -->
 
-
-
+<img width="368" height="162" alt="Image" src="https://github.com/user-attachments/assets/6ce1eb3c-5183-4cf0-9b71-4dd9feaebef8" />
+<img width="370" height="277" alt="Image" src="https://github.com/user-attachments/assets/04a34492-2f7c-4a5d-ae8e-8144687efd97" />
+<img width="498" height="316" alt="Image" src="https://github.com/user-attachments/assets/ebd6fe0a-f026-4256-8922-b3a9aeac43df" />
+<img width="648" height="364" alt="Image" src="https://github.com/user-attachments/assets/16e0a6d2-cc1a-4ddc-9918-98c2a1843e10" />
 
 ## 3. 파일과 운영체제
 
@@ -384,7 +386,10 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 4-5장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
+<img width="456" height="135" alt="Image" src="https://github.com/user-attachments/assets/2c8256a9-566c-44a2-bd11-a4a65b9c654d" />
+<img width="625" height="109" alt="Image" src="https://github.com/user-attachments/assets/7d5e979a-3628-4dc6-b163-7867dfee1d09" />
+<img width="448" height="207" alt="Image" src="https://github.com/user-attachments/assets/2a747598-430f-4abf-84b5-4fa7d97427e4" />
+<img width="650" height="117" alt="Image" src="https://github.com/user-attachments/assets/6f1c1de5-231e-41fd-ba9c-764f55be5855" />
 
 
 
@@ -412,8 +417,15 @@ students = [
   - 생성된 우수 학생 명단 리스트를 print()를 이용해 화면에 출력하세요.
 ```
 
-<!-- 이 부분을 지우고 인증 사진을 제출해주세요.-->
+```
+1. 전체 평균 점수 계산
+```
+<img width="858" height="202" alt="Image" src="https://github.com/user-attachments/assets/cf4cc107-a1c0-439d-9263-2d7b1719baaa" />
 
+```
+2. 80점 이상 우수 학생 추출
+```
+<img width="960" height="135" alt="Image" src="https://github.com/user-attachments/assets/06faed0b-39d5-4c8c-b194-96275d2d9d0e" />
 
 ### 🎉 수고하셨습니다.
 
