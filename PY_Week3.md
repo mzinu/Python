@@ -202,8 +202,9 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="701" height="219" alt="image" src="https://github.com/user-attachments/assets/8304816a-638c-4502-8155-cc19db424e9f" />
+<img width="372" height="150" alt="image" src="https://github.com/user-attachments/assets/f3722619-122f-4dd5-902e-f6f385149656" />
+<img width="620" height="374" alt="image" src="https://github.com/user-attachments/assets/1fcafc29-1c24-40c4-8026-fb1ed58546c0" />
 
 ## 2. 난수 생성
 
@@ -232,8 +233,9 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="771" height="189" alt="image" src="https://github.com/user-attachments/assets/a4fac308-958b-4eae-9322-7c9599561a71" />
+<img width="875" height="162" alt="image" src="https://github.com/user-attachments/assets/574b3a44-92ea-400a-95ec-d3c22b1adfb9" />
+<img width="603" height="138" alt="image" src="https://github.com/user-attachments/assets/514a317f-f8f5-44bb-97eb-78e144fae56b" />
 
 ## 3. 유니버설 함수: 배열의 각 원소를 빠르게 처리하는 함수
 
@@ -267,8 +269,8 @@
 ### 실습 인증
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
-
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
+<img width="871" height="207" alt="image" src="https://github.com/user-attachments/assets/1f25d23f-5dc0-4698-9793-81f45b7be382" />
+<img width="894" height="362" alt="image" src="https://github.com/user-attachments/assets/768a5867-9522-4eb2-9926-4aac614ab236" />
 
 
 ## 4. 배열을 이용한 배열 기반 프로그래밍
@@ -366,9 +368,8 @@
 ### 실습 인증
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
-
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="876" height="301" alt="image" src="https://github.com/user-attachments/assets/a44046ce-929e-42cf-a084-d9781dd34777" />
+<img width="909" height="593" alt="image" src="https://github.com/user-attachments/assets/10f9b7ed-a8e4-4ddb-9a05-302a0a956dac" />
 
 ## 5. 배열 데이터의 파일 입출력
 
@@ -391,8 +392,8 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="599" height="166" alt="image" src="https://github.com/user-attachments/assets/33088a5b-143d-4b01-ba6d-222ba1da5f36" />
+<img width="862" height="481" alt="image" src="https://github.com/user-attachments/assets/fa6b9d75-58c1-47c3-9788-72d642148137" />
 
 ## 6. 선형대수
 
@@ -418,9 +419,8 @@
 ### 실습 인증
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
-
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="775" height="402" alt="image" src="https://github.com/user-attachments/assets/db2ce470-fe45-457f-adf1-84cbbd6554e4" />
+<img width="756" height="393" alt="image" src="https://github.com/user-attachments/assets/8e78e449-094d-4454-b5a3-d11a06b55b25" />
 
 ## 7. 계단 오르내리기 예제
 
@@ -452,9 +452,8 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
-
+<img width="921" height="269" alt="image" src="https://github.com/user-attachments/assets/e0ec6435-65d0-4afd-a672-78a92782c166" />
+<img width="868" height="529" alt="image" src="https://github.com/user-attachments/assets/f1fdc5af-a21c-4cd1-94c9-d7515923e7a4" />
 
 # 2️⃣ 실습 과제
 
@@ -492,8 +491,10 @@ sales = np.array([
   - np.where() 함수를 사용하여 40 미만은 0, 40 이상은 원래 값을 가지는 새로운 배열을 만드세요.
   - print()를 이용해 수정된 배열을 출력하세요.
 ```
+**정답**
+<img width="710" height="626" alt="image" src="https://github.com/user-attachments/assets/ba106eb7-8214-439e-96cf-3dada50cf09e" />
 
-<!-- 이 부분을 지우고 인증 사진을 제출해주세요.-->
+
 
 
 
