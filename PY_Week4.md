@@ -153,8 +153,10 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="868" height="400" alt="image" src="https://github.com/user-attachments/assets/fdf44776-2ca5-4d0f-8b96-df2af7696fae" />
+<img width="870" height="601" alt="image" src="https://github.com/user-attachments/assets/f37a09e4-b220-4611-a3bc-1530eead34b3" />
+<img width="869" height="650" alt="image" src="https://github.com/user-attachments/assets/edac85b2-a8fe-40f4-aa82-7558e1520a2b" />
+<img width="865" height="564" alt="image" src="https://github.com/user-attachments/assets/ce2a8790-f7be-4d12-b660-889add46ad1f" />
 
 ## 2. 핵심 기능
 
@@ -192,7 +194,7 @@
   - 원본을 직접 바꾸지 않고 삭제된 새 객체 반환
   - (inplace=True를 쓰지 않는 한)
 
-5.2.3 색인하기, 선택하기, 거르기
+**5.2.3 색인하기, 선택하기, 거르기**
 
 - Series 선택
   - obj["a"] : 라벨
@@ -313,14 +315,14 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="871" height="551" alt="image" src="https://github.com/user-attachments/assets/4f35505f-d2b6-4734-a118-c396fc1b5eab" />
+<img width="859" height="302" alt="image" src="https://github.com/user-attachments/assets/55ef7193-f3de-4422-986b-5e5f2cec6b99" />
 
 ## 3. 기술 통계 계산과 요약
 
 ### 개념정리
 
-*기본 축소 통계*
+**기본 축소 통계**
 
 - 주요 메서드
   - sum()
@@ -340,7 +342,7 @@
   - 기본은 열 기준
   - axis="columns"면 행 기준
 
-*누산 / 요약 통계*
+**누산 / 요약 통계**
 
 - 누산 메서드
   - cumsum()
@@ -389,10 +391,8 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
-
-
+<img width="882" height="629" alt="image" src="https://github.com/user-attachments/assets/3128a21a-cfaa-4f4d-8a03-e41183f3224b" />
+<img width="884" height="450" alt="image" src="https://github.com/user-attachments/assets/f87d1168-cd3c-463c-8738-9243b63336a5" />
 
 # 2️⃣ 실습 과제
 
@@ -430,10 +430,17 @@ df = pd.DataFrame(data)
   - price와 sales_count를 곱하여 total_revenue라는 새로운 열을 추가하세요.
   - print()를 이용해 새로운 열이 추가된 DataFrame의 상단 5행(head)을 출력하세요.
 ```
+**데이터 생성**
+>> <img width="866" height="291" alt="image" src="https://github.com/user-attachments/assets/d16b9007-6b16-4fe6-afe7-ea59f6449d62" />
 
-<!-- 이 부분을 지우고 인증 사진을 제출해주세요.-->
+**1**
+>> <img width="602" height="438" alt="image" src="https://github.com/user-attachments/assets/22845e1b-d671-47fa-be5f-5518258ffa02" />
 
+**2**
+>> <img width="547" height="93" alt="image" src="https://github.com/user-attachments/assets/fb2fdf2b-7618-4390-be1b-391ecedb4e9c" />
 
+**3**
+>> <img width="803" height="278" alt="image" src="https://github.com/user-attachments/assets/87966d84-5756-4175-b958-079dfb7995b9" />
 
 ### 🎉 수고하셨습니다.
 
