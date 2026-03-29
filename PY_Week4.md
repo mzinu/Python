@@ -431,16 +431,16 @@ df = pd.DataFrame(data)
   - print()를 이용해 새로운 열이 추가된 DataFrame의 상단 5행(head)을 출력하세요.
 ```
 **데이터 생성**
->> <img width="866" height="291" alt="image" src="https://github.com/user-attachments/assets/d16b9007-6b16-4fe6-afe7-ea59f6449d62" />
+> <img width="866" height="291" alt="image" src="https://github.com/user-attachments/assets/d16b9007-6b16-4fe6-afe7-ea59f6449d62" />
 
 **1**
->> <img width="602" height="438" alt="image" src="https://github.com/user-attachments/assets/22845e1b-d671-47fa-be5f-5518258ffa02" />
+> <img width="602" height="438" alt="image" src="https://github.com/user-attachments/assets/22845e1b-d671-47fa-be5f-5518258ffa02" />
 
 **2**
->> <img width="547" height="93" alt="image" src="https://github.com/user-attachments/assets/fb2fdf2b-7618-4390-be1b-391ecedb4e9c" />
+> <img width="547" height="93" alt="image" src="https://github.com/user-attachments/assets/fb2fdf2b-7618-4390-be1b-391ecedb4e9c" />
 
 **3**
->> <img width="803" height="278" alt="image" src="https://github.com/user-attachments/assets/87966d84-5756-4175-b958-079dfb7995b9" />
+> <img width="803" height="278" alt="image" src="https://github.com/user-attachments/assets/87966d84-5756-4175-b958-079dfb7995b9" />
 
 ### 🎉 수고하셨습니다.
 
