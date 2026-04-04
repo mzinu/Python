@@ -161,7 +161,9 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
+<img width="760" height="557" alt="image" src="https://github.com/user-attachments/assets/52759417-298d-48a1-aef6-6f66890cc4bc" />
+<img width="891" height="586" alt="image" src="https://github.com/user-attachments/assets/df5708ff-0c83-461a-a097-4d9937ff43c2" />
+
 
 
 ## 2. 이진 데이터 형식
@@ -220,7 +222,9 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
+<img width="1066" height="567" alt="image" src="https://github.com/user-attachments/assets/133e4608-fe13-4507-873f-d0ba629e2343" />
+<img width="740" height="754" alt="image" src="https://github.com/user-attachments/assets/fbf6bb62-659e-4a4e-a252-f6aec869e1f2" />
+
 
 
 ## 3. 웹 API와 함께 사용하기
@@ -246,7 +250,9 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
+<img width="1375" height="541" alt="image" src="https://github.com/user-attachments/assets/1ff7150c-fa44-4a3d-b8d3-267e3d88a4d6" />
+<img width="1338" height="366" alt="image" src="https://github.com/user-attachments/assets/b21f51c0-8ede-4750-8603-56cbd5aecd24" />
+
 
 
 ## 4. 데이터베이스와 함께 사용하기
@@ -269,7 +275,9 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
+<img width="1382" height="720" alt="image" src="https://github.com/user-attachments/assets/462a8884-94e1-4eb5-8319-5b0b8b3f60c2" />
+<img width="1467" height="645" alt="image" src="https://github.com/user-attachments/assets/7b3ea86b-7c1d-46cc-8322-1c28c7a1b5d7" />
+
 
 
 ## 5. 누락된 데이터 처리하기
@@ -315,8 +323,8 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="1117" height="628" alt="image" src="https://github.com/user-attachments/assets/0fc9d2e2-f27c-46cd-96cd-c81850ad167d" />
+<img width="622" height="731" alt="image" src="https://github.com/user-attachments/assets/5431156e-c9cb-4252-abf8-650c8c05baab" />
 
 ## 6. 데이터 변형 
 
@@ -422,7 +430,9 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
+<img width="587" height="663" alt="image" src="https://github.com/user-attachments/assets/4af5edae-7449-4973-acb2-8553e15bcda2" />
+<img width="808" height="644" alt="image" src="https://github.com/user-attachments/assets/9047ca16-7a41-4ae1-9bc3-ef6b589fc2a4" />
+
 
 
 
@@ -474,7 +484,19 @@ json_obj = """
   - print()를 이용해 데이터의 상단 5행(head)을 출력하세요.
 ```
 
-<!-- 이 부분을 지우고 인증 사진을 제출해주세요.-->
+#### 1
+  <img width="699" height="440" alt="image" src="https://github.com/user-attachments/assets/eb25268e-c274-410a-8c6c-a6df29960a5a" />
+
+#### 2
+  <img width="451" height="268" alt="image" src="https://github.com/user-attachments/assets/4ed1279a-47ce-4e5c-b6d3-293718cbd896" />
+
+#### 3
+  <img width="647" height="224" alt="image" src="https://github.com/user-attachments/assets/a8cb4308-5f01-41c6-b23d-8a23dceb2c9a" />
+  <img width="543" height="619" alt="image" src="https://github.com/user-attachments/assets/ee32ad44-cb94-42ac-8668-7450d4fdbc3f" />
+  <img width="724" height="604" alt="image" src="https://github.com/user-attachments/assets/18208936-1bd6-416d-a5e2-6f763344574a" />
+  <img width="765" height="737" alt="image" src="https://github.com/user-attachments/assets/e3b892cb-c1ad-4236-a557-87c024123ee5" />
+  <img width="634" height="185" alt="image" src="https://github.com/user-attachments/assets/0846af11-d34e-4404-87dd-c4627d055362" />
+
 
 
 
