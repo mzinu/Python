@@ -55,11 +55,11 @@
   - 결측치(NA) 지원
   - 원래 타입 유지 가능
 - 핵심 타입
-  - <Int64> → 결측 가능한 정수
-  - <boolean> → 결측 가능한 bool
-  - <string> → 문자열 전용 타입
-  - <Float64> → 결측 가능한 float
-  - <category> → 범주형
+  - Int64 → 결측 가능한 정수
+  - boolean → 결측 가능한 bool
+  - string → 문자열 전용 타입
+  - Float64 → 결측 가능한 float
+  - category → 범주형
 - 특징
   - 결측값은 np.nan이 아니라 pd.NA
   - dtype 명시 안 하면 기존 방식 유지됨
