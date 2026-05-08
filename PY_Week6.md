@@ -73,8 +73,9 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="893" height="691" alt="image" src="https://github.com/user-attachments/assets/a08c4655-2719-4944-8d53-77f42a9c9c28" />
+<img width="891" height="515" alt="image" src="https://github.com/user-attachments/assets/b8d6bc15-d96b-441b-87be-54c98316bb48" />
+<img width="892" height="652" alt="image" src="https://github.com/user-attachments/assets/e48ef1ba-02ff-4d2f-9f29-7c1a7cf77ffd" />
 
 ## 2. 문자열 다루기 
 
@@ -83,17 +84,17 @@
 #### 7.4.1 파이썬 문자열 메서드
 
 - 기본 처리
-  - <split()> → 나누기
-  - <strip()> → 공백 제거
-  - <join()> → 합치기
-  - <replace()> → 치환
+  - split() → 나누기
+  - strip() → 공백 제거
+  - join() → 합치기
+  - replace() → 치환
 - 검색
-  - <"a"in text> → 포함 여부
-  - <find()> → 위치 (없으면 -1)
-  - <index()> → 위치 (없으면 에러)
+  - "a"in text → 포함 여부
+  - find() → 위치 (없으면 -1)
+  - index() → 위치 (없으면 에러)
 - 기타
-  - <count()> → 개수
-  - <lower()/upper()> → 대소문자 변환
+  - count() → 개수
+  - lower()/upper() → 대소문자 변환
 
 #### 7.4.2 정규 표현식(regex)
 
@@ -111,20 +112,20 @@
   ```python
   (user)@(domain).(suffix)
   ```  
-  -> <group()>로 분리
+  -> group()로 분리
 
 #### 7.4.3 판다스 문자열 함수
 
-- <Series.str> 사용
+- Series.str 사용
 - 장점
   - 결측치 자동 처리 (에러 안 남)
   - 벡터화 → 빠름
 - 주요 메서드
-  - <str.contains()> → 포함 여부
-  - <str.findall()> → 패턴 찾기
-  - <str.extract()> → 그룹 추출 (DataFrame)
-  - <str.replace()> → 치환
-  - <str.slice()> → 자르기
+  - str.contains() → 포함 여부
+  - str.findall() → 패턴 찾기
+  - str.extract() → 그룹 추출 (DataFrame)
+  - str.replace() → 치환
+  - str.slice() → 자르기
 - 예
   ```python
   data.str.contains("gmail")
@@ -134,8 +135,9 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="886" height="737" alt="image" src="https://github.com/user-attachments/assets/56c39fc4-19d8-4afb-9555-f06c02897479" />
+<img width="897" height="526" alt="image" src="https://github.com/user-attachments/assets/a1af47db-cb7b-4ac4-8d9f-56b93b3cff0e" />
+<img width="898" height="660" alt="image" src="https://github.com/user-attachments/assets/4b03ea75-6f68-4e2d-94fd-c3ea15ae5479" />
 
 ## 3. 범주형 데이터
 
@@ -163,18 +165,18 @@
   - 연산 빠름
 
 #### 7.5.3 연산
-- <groupby>, <value_counts> 빠름
-- <qcut()> → 구간 나누기 → 범주형 반환
+- groupby, value_counts 빠름
+- qcut() → 구간 나누기 → 범주형 반환
 - 예
   ```python
   df["col"].astype("category")
   ```
 
 #### 7.5.4 메서드
-- <set_categories()> → 범주 변경
-- <rename_categories()> → 이름 변경
-- <remove_unused_categories()> → 안 쓰는 값 제거
-- <as_ordered()> → 순서 부여
+- set_categories() → 범주 변경
+- rename_categories() → 이름 변경
+- remove_unused_categories() → 안 쓰는 값 제거
+- as_ordered() → 순서 부여
 
 #### 성능 핵심
 - 문자열 → category 변환 시
@@ -190,8 +192,9 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="908" height="450" alt="image" src="https://github.com/user-attachments/assets/d21351c4-f48f-4cdf-9179-ccf1f8f40f63" />
+<img width="907" height="607" alt="image" src="https://github.com/user-attachments/assets/28077dc6-51fc-45bd-b9fc-09b06d59767d" />
+<img width="910" height="610" alt="image" src="https://github.com/user-attachments/assets/e68fb1ec-1db0-497d-9338-1908310a97d9" />
 
 ## 4. 계층적 색인 
 
@@ -207,21 +210,22 @@
     data.loc[:, 2]
     ```  
 - 구조 변환
-  - <unstack()> → 행 → 열
-  - <stack()> → 열 → 행
+  - unstack() → 행 → 열
+  - stack() → 열 → 행
 - 정렬 & 재배치
-  - <swaplevel()> → 순서 바꾸기
-  - <sort_index(level=...)> → 특정 레벨 정렬
+  - swaplevel() → 순서 바꾸기
+  - sort_index(level=...) → 특정 레벨 정렬
 - 색인 다루기
-  - <set_index()> → 열 → index
-  - <reset_index()> → index → 열
+  - set_index() → 열 → index
+  - reset_index() → index → 열
 
 ### 실습 인증
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="873" height="613" alt="image" src="https://github.com/user-attachments/assets/defc71a9-bfbd-4f48-8dc1-6a80bbe93714" />
+<img width="882" height="620" alt="image" src="https://github.com/user-attachments/assets/b7425eb6-43b3-4e39-be9e-9c14dd239652" />
+<img width="782" height="777" alt="image" src="https://github.com/user-attachments/assets/deab4cb8-3c3d-453a-8347-7590dae4d1d8" />
 
 ## 5. 데이터 합치기 
 
@@ -235,10 +239,10 @@
   pd.merge(df1, df2, on="key")
   ```
 - 옵션
-  - <inner> → 교집합
-  - <left> → 왼쪽 기준
-  - <right> → 오른쪽 기준
-  - <outer> → 합집합
+  - inner → 교집합
+  - left → 왼쪽 기준
+  - right → 오른쪽 기준
+  - outer → 합집합
 - 특징
   - 다대다 → 곱집합 발생
 
@@ -261,11 +265,11 @@
 
 - 단순 이어붙이기
 - 방향
-  - <axis=0> → 아래
-  - <axis=1> → 옆
+  - axis=0 → 아래
+  - axis=1 → 옆
 - 옵션
-  - <keys> → 계층 index 생성
-  - <ignore_index=True>
+  - keys → 계층 index 생성
+  - ignore_index=True
 
 #### 8.2.5 combine_first
 - 결측치
@@ -278,8 +282,9 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="853" height="682" alt="image" src="https://github.com/user-attachments/assets/726b0ab8-0017-4064-b313-5cde6cd108f2" />
+<img width="878" height="761" alt="image" src="https://github.com/user-attachments/assets/fea2ae87-4636-460a-a170-37a5446fe737" />
+<img width="890" height="776" alt="image" src="https://github.com/user-attachments/assets/c2023fd8-d98c-4ec3-9da4-51a303d691f1" />
 
 ## 6. 재구성과 피벗 
 
@@ -287,8 +292,8 @@
 
 #### 8.3.1 stack / unstack
 
-- <stack()> → wide → long
-- <unstack()> → long → wide
+- stack() → wide → long
+- unstack() → long → wide
 
 #### 8.3.2 pivot
 
@@ -303,16 +308,15 @@ df.pivot(index, columns, values)
 pd.melt(df)
 ```
 - 결과 컬럼
-  - <variable>
-  - <value>
+  - variable
+  - value
 
 ### 실습 인증
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
-
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
-
+<img width="905" height="786" alt="image" src="https://github.com/user-attachments/assets/a2694e4d-d9bc-46eb-b7dd-4b77a1b18ee5" />
+<img width="883" height="587" alt="image" src="https://github.com/user-attachments/assets/9e6143fb-1f20-47e0-9f6c-296a704f6544" />
+<img width="900" height="376" alt="image" src="https://github.com/user-attachments/assets/bb296712-65bf-401f-9b13-06ec177ca199" />
 
 # 2️⃣ 실습 과제
 
@@ -359,9 +363,14 @@ purchases = pd.DataFrame({
   - print()를 이용해 병합된 최종 데이터프레임을 출력하세요.
 ```
 
-<!-- 이 부분을 지우고 인증 사진을 제출해주세요.-->
+> 1
+<img width="870" height="480" alt="image" src="https://github.com/user-attachments/assets/8480ceeb-9abf-4a18-9cce-e1175c8e0b8d" />
 
+> 2
+<img width="907" height="342" alt="image" src="https://github.com/user-attachments/assets/2dd09545-aa9b-4b74-896c-8fd1ad63a3c9" />
 
+> 3
+<img width="907" height="603" alt="image" src="https://github.com/user-attachments/assets/1befea06-0dca-4d5b-9e80-02c781502e2d" />
 
 ### 🎉 수고하셨습니다.
 
