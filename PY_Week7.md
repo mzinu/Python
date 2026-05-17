@@ -130,8 +130,9 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="905" height="630" alt="image" src="https://github.com/user-attachments/assets/5867ece5-75b4-47cc-8316-8fd5e5224500" />
+<img width="937" height="686" alt="image" src="https://github.com/user-attachments/assets/7842c9c5-2f93-46fb-b2cd-3c84fbf82a6e" />
+<img width="888" height="737" alt="image" src="https://github.com/user-attachments/assets/3a7be4e3-fb10-40d9-81e8-319fe5c7fd8b" />
 
 ## 2. 판다스에서 시본으로 그래프 그리기 
 
@@ -188,8 +189,8 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="895" height="697" alt="image" src="https://github.com/user-attachments/assets/aa26f957-0133-46dd-833e-74fe4b6bad3a" />
+<img width="902" height="583" alt="image" src="https://github.com/user-attachments/assets/475d9d54-2f4d-4c6e-8da5-138df45363f1" />
 
 ## 3. 다른 파이썬 시각화 도구
 
@@ -206,8 +207,8 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="886" height="495" alt="image" src="https://github.com/user-attachments/assets/04c1da52-f1e6-4837-a944-cb835d65d83d" />
+<img width="887" height="763" alt="image" src="https://github.com/user-attachments/assets/5f454696-e7b3-4001-84c8-5362e1d7feed" />
 
 ## 4. 그룹 연산에 대한 고찰
 
@@ -265,8 +266,8 @@
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="755" height="567" alt="image" src="https://github.com/user-attachments/assets/67c32fa9-b42e-4c25-878b-11fc8c54332d" />
+<img width="807" height="442" alt="image" src="https://github.com/user-attachments/assets/8318ca3a-073b-4957-9e1a-bddc93762644" />
 
 ## 5. 데이터 집계
 
@@ -304,7 +305,8 @@ as_index=False
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
 <!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="796" height="317" alt="image" src="https://github.com/user-attachments/assets/eb17333b-be90-4cb9-9aac-c497c85918e9" />
+<img width="811" height="237" alt="image" src="https://github.com/user-attachments/assets/46cb611c-4c14-4cbf-8958-b37dc97959ec" />
 
 ## 6. apply 메서드: 일반적인 분리-적용-병합 
 
@@ -357,9 +359,8 @@ group_keys=False
 ### 실습 인증
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
-
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="835" height="522" alt="image" src="https://github.com/user-attachments/assets/d719464c-9754-47f5-8f0a-8d264845b050" />
+<img width="777" height="352" alt="image" src="https://github.com/user-attachments/assets/6bc72d69-6fad-4160-9e13-49d092cde0b3" />
 
 ## 7. 그룹 변환과 래핑되지 않은 groupby
 
@@ -377,8 +378,8 @@ group_keys=False
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
+<img width="571" height="697" alt="image" src="https://github.com/user-attachments/assets/7004f61c-b780-4068-94e7-c04ce457a9b2" />
+<img width="922" height="461" alt="image" src="https://github.com/user-attachments/assets/9d534faf-1e1b-4c7a-a943-a03a9c62c203" />
 
 ## 8. 피벗 테이블과 교차표 
 
@@ -404,9 +405,8 @@ pd.crosstab()
 
 <!-- 예제 실습을 진행한 후, 실행 화면을 2-3장 캡쳐하여 제출해주세요. -->
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
-
-
+<img width="806" height="497" alt="image" src="https://github.com/user-attachments/assets/25bd97ee-7ed2-4afc-83dc-f03f463e9239" />
+<img width="862" height="448" alt="image" src="https://github.com/user-attachments/assets/6a7d4217-d12a-4631-b5dc-159f0eab03dc" />
 
 ---
 
